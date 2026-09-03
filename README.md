@@ -43,9 +43,10 @@ Successfully used Group Policy Management to automatically map a network drive f
 
 GPO creation, drive map preference configuration, OU-based policy linking, folder sharing, Active Directory administration, and end-to-end policy testing on a domain-joined client VM.
 
-## Full Documentation
+## Repository Contents
 
-[`Map Network Drive Using Group Policy (GPO) Lab of ADDS.pdf`](<./Map Network Drive Using Group Policy (GPO) Lab of ADDS.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`Map Network Drive Using Group Policy (GPO) Lab of ADDS.pdf`](<./Map Network Drive Using Group Policy (GPO) Lab of ADDS.pdf>) — full step-by-step write-up
+- [`MAP Network using GPO SS/`](<./MAP Network using GPO SS>) — implementation evidence (GPO creation, drive map configuration, and OU linking)
 
 ## Author
 
